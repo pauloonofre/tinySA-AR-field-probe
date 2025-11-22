@@ -4,7 +4,7 @@ This project provides an augmented reality (AR) system for measuring and mapping
 The software creates a real-time RF heatmap synchronized with the position of a physical near‑field probe tracked via computer vision (CSRT).
 
 ---
-
+![Screenshot](screenshot.png)
 ## 🚀 Features
 
 ### 🔍 Augmented Reality Interface
