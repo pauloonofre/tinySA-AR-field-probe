@@ -1,6 +1,7 @@
 # tinySA AR Field Probe – Augmented Reality RF Mapping Tool
 
 This project provides an augmented-reality system for visualizing and mapping RF emissions using the **tinySA / tinySA-Plus spectrum analyzer**.  
+https://www.tinysa.org/wiki/
 It generates a real-time RF heatmap overlaid on the live camera image, synchronized with the position of a physical near-field probe tracked via computer vision .
 
 ![Screenshot](screenshot.png)
