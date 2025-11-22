@@ -1,5 +1,4 @@
-# tinySA Heatmap AR – versão final completa (Python 3.12)
-# PIL + Roboto, HUD estilo Keysight, barra de cor corrigida,
+# tinySA Heatmap AR – (Python 3.12)
 # exportação CSV + PNG, tracking CSRT, dBm + dBµV
 
 import cv2
@@ -139,9 +138,7 @@ def make_overlay(frame, mapdbm):
     overlay = cv2.addWeighted(frame, 0.40, heat_color, 0.60, 0)
     return overlay, vmin, vmax
 
-# ============================
-# Barra de Cor (corrigida)
-# ============================
+
 
 def draw_colorbar(img, vmin, vmax):
     if vmin is None or vmax is None:
@@ -273,3 +270,4 @@ def main():
 
 if __name__=="__main__":
     main()
+
