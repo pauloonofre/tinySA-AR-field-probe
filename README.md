@@ -43,6 +43,9 @@ Testing was performed using a **Logitech C270 webcam mounted on a tripod**, prov
   - grid coordinates (x, y)
 
 ---
+## Credits
 
+This project was developed by Paulo Onofre.  
+AI assistance provided by ChatGPT (OpenAI) for code generation and optimization under the author's guidance.
 
 
