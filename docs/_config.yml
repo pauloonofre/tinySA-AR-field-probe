@@ -1,4 +1,6 @@
 markdown: kramdown
 theme: null
-plugins: []
-exclude: []
+
+include:
+  - _layouts
+  - _includes
