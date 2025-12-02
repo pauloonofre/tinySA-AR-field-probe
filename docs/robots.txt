@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pauloonofre.github.io/tinySA-AR-field-probe/sitemap.xml
