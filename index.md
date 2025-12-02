@@ -54,4 +54,4 @@ Included scripts:
 Install dependencies:
 
 ```bash
-pip install opencv-python numpy pillow pyserial 
+pip install opencv-python numpy pillow pyserial  
