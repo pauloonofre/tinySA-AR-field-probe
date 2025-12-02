@@ -1,10 +1,8 @@
 ---
 title: "tinySA AR Field Probe – Augmented Reality RF Mapping"
 layout: default
+description: "Augmented Reality tool for RF field mapping using tinySA / tinySA-Plus. Generates real-time heatmaps, tracks probe movement and visualizes electromagnetic fields for EMI/EMC diagnostics."
 ---
-
-<!-- Google Search Console Verification -->
-<meta name="google-site-verification" content="Mu0UaeiUzNBmyU8B9NSmJ6elOTVqnPDK_F81MJbXFxY" />
 
 # tinySA AR Field Probe  
 ### Augmented Reality Tool for RF Field Mapping using tinySA / tinySA-Plus
@@ -18,7 +16,8 @@ The system generates a live **RF heatmap** while automatically tracking the phys
 ## 🚀 Key Features
 
 ### 🔍 RF Measurements with tinySA / tinySA-Plus
-- Automatic sweep detection and real sweep range reading  
+- Automatic sweep detection  
+- Real sweep range reading  
 - Peak detection (dBm and dBµV)  
 - Dynamic color scale bar  
 - CSV export of all measurements  
@@ -41,52 +40,18 @@ The system generates a live **RF heatmap** while automatically tracking the phys
 ## 📦 Source Code
 
 GitHub repository:  
-https://github.com/pauloonofre/tinySA-AR-field-probe
+**https://github.com/pauloonofre/tinySA-AR-field-probe**
 
 Included scripts:
-- tinysa_ar_fieldProbe.py – Main program (AR + heatmap)
-- tinySA.py – Serial interface with tinySA/tinySA-Plus
-- Roboto-Regular.ttf – Optional font for better rendering
+- **tinysa_ar_fieldProbe.py** – Main program (AR + heatmap)  
+- **tinySA.py** – Serial interface with tinySA/tinySA-Plus  
+- **Roboto-Regular.ttf** – Optional font for better rendering  
 
 ---
 
 ## 🛠 Installation
 
-Install all dependencies:
+Install dependencies:
 
 ```bash
 pip install opencv-python numpy pillow pyserial
-```
-
-Run the tool:
-
-```bash
-python tinysa_ar_fieldProbe.py
-```
-
----
-
-## 🔎 SEO Keywords
-
-tinysa, tinysa-plus, rf measurements, spectrum analyzer, augmented reality, heatmap, near field probe, emi testing, python opencv, rf mapping, electromagnetic field, rf visualization, tinySA AR
-
----
-
-## 📄 License
-
-This project is released under the **MIT License**.
-
----
-
-## ✨ Contributing
-
-Contributions, suggestions, and pull requests are welcome.
-
----
-
-## 📬 Contact
-
-Author: **Paulo Onofre**  
-GitHub: https://github.com/pauloonofre
-
----
