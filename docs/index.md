@@ -40,7 +40,9 @@ The system generates a live **RF heatmap** while automatically tracking the phys
 ## 📦 Source Code
 
 GitHub repository:  
-**https://github.com/pauloonofre/tinySA-AR-field-probe**
+### 📦 GitHub Repository
+👉 [https://github.com/pauloonofre/tinySA-AR-field-probe](https://github.com/pauloonofre/tinySA-AR-field-probe)
+
 
 Included scripts:
 - **tinysa_ar_fieldProbe.py** – Main program (AR + heatmap)  
