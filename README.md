@@ -17,7 +17,7 @@ The tool is designed for **EMI/EMC near-field investigation**, using typical low
 By combining the tinySA-Plus measurements with AR visualization, the system allows users to correlate probe position with the measured signal strength directly on screen. All readings are converted into **dBm** and **dBµV**, and can be exported for documentation or analysis.
 Testing was performed using a **Logitech C270 webcam mounted on a tripod**, providing a stable viewpoint that ensures reliable AR tracking and consistent heatmap generation. This tool enables rapid RF noise diagnostics, identification of emitting components, and intuitive visualization of emissions in electronic prototypes, being especially useful during debugging stages, pre-compliance evaluations, and informal laboratory analysis
 
----
+---Before running tinysa_ar_fieldProbe.py, install the required Python libraries with pip install opencv-python pyserial numpy pillow. 
 
 ## 🚀 Features
 
