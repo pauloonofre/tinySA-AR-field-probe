@@ -5,6 +5,7 @@ https://www.tinysa.org/wiki/
 It generates a real-time RF heatmap overlaid on the live camera image, synchronized with the position of a physical near-field probe tracked via computer vision .
 
 ![Screenshot](screenshot.png)
+![Screenshot] (tinysa_export_20251120_170612.png )
 
 ---
 
