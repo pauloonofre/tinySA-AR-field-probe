@@ -19,6 +19,7 @@ By combining the tinySA-Plus measurements with AR visualization, the system allo
 Testing was performed using a **Logitech C270 webcam mounted on a tripod**, providing a stable viewpoint that ensures reliable AR tracking and consistent heatmap generation. This tool enables rapid RF noise diagnostics, identification of emitting components, and intuitive visualization of emissions in electronic prototypes, being especially useful during debugging stages, pre-compliance evaluations, and informal laboratory analysis
 
 ---Before running tinysa_ar_fieldProbe.py, install the required Python libraries with pip install opencv-python pyserial numpy pillow. 
+---If you download tinySA_AR.exe – Latest Release ( No Python or any other software installation required.)
 
 ## 🚀 Features
 
